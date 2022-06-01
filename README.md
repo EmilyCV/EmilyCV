@@ -6,9 +6,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyCV&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
  
- 
-            
-          
 <div style="display: inline_block"><br>
   <h4>Programming Languages</h4>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -27,7 +24,6 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" height="30" width=30" src="https://selenium-python.readthedocs.io/_static/logo.png" />
 </div>  
   
    ##
